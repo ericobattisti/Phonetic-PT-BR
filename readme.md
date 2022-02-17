@@ -1,6 +1,6 @@
-# Phonetizer BR
+# Phonetic PT-BR
 
-Phonetizer BR is a JAVA library to deal with phonetization of words in Portuguese-Brazil.
+Phonetic PT-BR is a JAVA library to deal with phonetization of words in Portuguese-Brazil.
 
 <span style="color: blue">This solution can be used to improve the performance of database queries that use "LIKE".</span>
 
